@@ -1,0 +1,12 @@
+{
+    "What is Python?": "Python is a high-level programming language known for its simple syntax.",
+    "What is AI?": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.",
+    "What is Machine Learning?": "Machine Learning is a subset of AI that learns from data.",
+    "What is Streamlit?": "Streamlit is a Python framework used to build web applications.",
+    "Who developed Python?": "Python was developed by Guido van Rossum.",
+    "What is Java?": "Java is an object-oriented programming language.",
+    "What is C++?": "C++ is a powerful programming language used in software and game development.",
+    "What is Data Science?": "Data Science is the field of extracting insights from data.",
+    "What is a Database?": "A database is an organized collection of data.",
+    "What is SQL?": "SQL is a language used to manage and query databases."
+}
